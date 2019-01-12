@@ -2,6 +2,7 @@
 /uncleanFiles/
 */target/**
 */target/*
+target/
 target/*
 target/classes/
 target/surefire-reports/
