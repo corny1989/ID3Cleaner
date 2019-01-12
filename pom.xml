@@ -4,7 +4,7 @@
 
   <groupId>ID3Cleaner</groupId>
   <artifactId>ID3Cleaner</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>ID3Cleaner</name>
