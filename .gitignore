@@ -1,6 +1,6 @@
 /files/
 /uncleanFiles/
-*/target/*
+*/target/**
 .classpath
 .project
 .settings/
