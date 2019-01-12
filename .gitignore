@@ -2,6 +2,7 @@
 /uncleanFiles/
 */target/**
 */target/*
+target/*
 .classpath
 .project
 .settings/
