@@ -3,6 +3,9 @@
 */target/**
 */target/*
 target/*
+target/classes/
+target/surefire-reports/
+target/test-classes/
 .classpath
 .project
 .settings/
